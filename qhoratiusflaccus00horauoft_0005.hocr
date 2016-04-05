@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccus00horauoft_0005.png"; bbox 0 0 1604 2820; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 452 73 1562 523">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 452 73 1562 523">
+     <span class='ocr_line' id='line_1_1' title="bbox 452 73 1328 205; baseline 0.015 -12"><span class='ocrx_word' id='word_1_1' title='bbox 452 73 454 75; x_wconf 71' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 643 83 1328 205; x_wconf 52' lang='lat' dir='ltr'><strong>ffiffistmffibs-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 790 253 1562 396; baseline 0.017 -64"><span class='ocrx_word' id='word_1_3' title='bbox 790 255 1014 336; x_wconf 34' lang='lat' dir='ltr'><strong>Aba&lt;</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1044 253 1262 368; x_wconf 46' lang='grc' dir='ltr'><strong>βω</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1298 258 1562 396; x_wconf 34' lang='grc' dir='ltr'><strong>ΜΨ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1069 398 1383 523; baseline 0.035 -53"><span class='ocrx_word' id='word_1_6' title='bbox 1069 398 1361 523; x_wconf 54' lang='lat' dir='ltr'><strong>hfbsal</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1373 475 1383 481; x_wconf 91' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 183 1010 1411 1147">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 183 1010 1411 1147">
+     <span class='ocr_line' id='line_1_4' title="bbox 183 1010 1411 1147; baseline 0.004 -22"><span class='ocrx_word' id='word_1_8' title='bbox 183 1011 276 1147; x_wconf 84' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 314 1010 867 1128; x_wconf 82' lang='lat' dir='ltr'>HORATIUS</span> <span class='ocrx_word' id='word_1_10' title='bbox 906 1011 1411 1130; x_wconf 86' lang='lat' dir='ltr'><strong>FLACCUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
